@@ -1,6 +1,6 @@
 ---
 id: catpunk101
-# title: Catpunk 101
+title: Catpunk 101
 slug: /
 ---
 

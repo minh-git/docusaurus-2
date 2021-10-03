@@ -3,7 +3,7 @@ id: weaponwielders
 title: Weaponwielders
 ---
 
-# Weaponwielders
+
 ![Example banner](https://github.com/minh-git/docusaurus-2/raw/main/docs/assets/3.jpg)
 Imagine, if you will, a city wherein assassins and thugs offer their services out of brightly lit
 shops with vibrant signs which explain exactly what you can purchase or lease. This is the world of the

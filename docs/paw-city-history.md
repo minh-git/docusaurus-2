@@ -3,8 +3,6 @@ id: paw-city-history
 title: Paw City History
 ---
 
-
-# Paw City History
 ![Example banner](https://github.com/minh-git/docusaurus-2/raw/main/docs/assets/banner.jpg)
 
 The blistered landscape crackled under the mid-day sun.  In the twenty short years since the Big Crash back in 2079, Earth had become a wasteland. Small tribes scoured the bleak horizons looking for food, shelter, and safety. This is the new reality except in Paw City. There life thrives, buildings are built, running water is the norm, climate control is widely available, and scarcity is a word not spoken. 

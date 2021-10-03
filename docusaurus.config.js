@@ -1,6 +1,6 @@
 module.exports = {
   title: 'CATPUNK DOCS',
-  tagline: 'The tagline of my site',
+  tagline: 'The story of Catpunk',
   url: 'https://catpunk.net',
   baseUrl: '/',
   favicon: 'img/favico.ico',
@@ -10,7 +10,7 @@ module.exports = {
     navbar: {
       title: 'CATPUNK',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'CATPUNK Logo',
         src: 'img/logo.png',
       },
       items: [
@@ -45,35 +45,37 @@ module.exports = {
         //   ],
         // },
         {
-          title: 'Community',
+          title: 'Main links',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Main Website',
+              href: 'https://catpunk.net',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Writer',
+              to: 'https://blogs.billmcscifi.com/',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: '3D Artist',
+              to: 'https://www.instagram.com/hantherealist/',
             },
           ],
         },
         {
-          title: 'More',
+          title: 'Community',
           items: [
+
             {
-              label: 'Blog',
-              to: 'blog',
+              label: 'Discord',
+              href: 'https://discordapp.com/invite/catpunk',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'Twitter',
+              href: 'https://twitter.com/ZodiLabOfficial',
             },
           ],
         },
+
       ],
       copyright: `Copyright © ${new Date().getFullYear()} CATPUNK by ZodiLAB`,
     },
@@ -88,13 +90,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/facebook/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/facebook/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

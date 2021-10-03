@@ -4,9 +4,6 @@ title: All Nighters -vs- Kabutowari
 ---
 
 
-    
-# All Nighters -vs- Kabutowari
-
 For the most part, the City-Runners turned a blind eye to the illicit activities that occurred in Paw City—knowing full well that Cat Punks needed to blow off some steam once in a while, just like anyone else. Moreover, they knew a little power struggle, here and there, carefully monitored, could be good for morale. 
 
 While an alliance between the All-Nighters and their numerous night clubs on the east side of Paw City, and the Kabutowari, with their entrenched drug trade on the south, would seem to make sense, egos and personalities kept that from happening. 

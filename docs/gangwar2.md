@@ -3,7 +3,6 @@ id: gangwar2
 title: Broken Chip -vs- Katana
 ---
 
-# Broken Chip -vs- Katana
 
 The area ruled by the Broken Chip gang was pleasant enough. The regular ebb and flow of extortion, loan sharking, and low-key prostitution were all just part of a typical day for the north side of Paw City. Cat Punks put up with it since they were promised safety in return. 
 
