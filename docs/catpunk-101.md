@@ -1,11 +1,11 @@
 ---
 id: catpunk101
-title: Catpunk 101
+# title: Catpunk 101
 slug: /
 ---
 
 # Catpunk 101
-![Example banner](./assets/1.gif)
+![Example banner](https://github.com/minh-git/docusaurus-2/raw/main/docs/assets/1.gif)
 
 ## What is CATPUNK?
 In the year of 2099, about 20 years after the Big Crash, which was the biggest financial crisis that led to the all-out war of the superpowers that brings most of the world to dust. The world restarted from ruin, Paw City was the first city being rebuilt and it completed in just 5 years with the help of technology. Strangely, the city was quickly filled up with citizens and there was a rumor that they are all clones...

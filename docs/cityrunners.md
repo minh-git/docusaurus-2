@@ -4,7 +4,7 @@ title: Cityrunners
 ---
 
 # Cityrunners
-![Example banner](./assets/4.jpg)
+![Example banner](https://github.com/minh-git/docusaurus-2/raw/main/docs/assets/4.jpg)
 
 In opulent offices, scattered all around Paw City, reside the mysterious Cat Punks known as the City-Runners. Not an assassination happens, nor is a single cred earned or spent, without their knowledge. Rarely seen, they use the latest tech, all unavailable to others, to monitor the city and communicate with each other. 
 
