@@ -1,17 +1,17 @@
 module.exports = {
-  title: 'My Site',
+  title: 'CATPUNK DOCS',
   tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://catpunk.net',
   baseUrl: '/',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favico.ico',
   organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  projectName: 'CATPUNK', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'CATPUNK',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
         {
@@ -22,8 +22,8 @@ module.exports = {
         },
         // {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/a',
-          label: 'GitHub',
+          href: 'https://catpunk.net',
+          label: 'CATPUNK OFFICIAL WEBSITE',
           position: 'right',
         },
       ],
