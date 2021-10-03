@@ -4,7 +4,7 @@ title: Punks
 ---
 
 # Punks
-![Example banner](./assets/2.jpg)
+![Example banner](https://github.com/minh-git/docusaurus-2/raw/main/docs/assets/2.jpg)
 
 The working class of Paw City, Punks are the Cat Punk grunts who move the freight, tote that barge, and lift that bale. They are the dusty sweat and sturdy backbone of Paw City. Like many working-class populations throughout history, they developed their own culture, rules, and entertainments. 
 
